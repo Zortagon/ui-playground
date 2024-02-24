@@ -1,8 +1,6 @@
 import React from "react";
 
-import { RemoveScroll } from "react-remove-scroll";
 import { cn, generateHash } from "./lib/utils";
-import NavBar from "./components/ui/NavBar";
 import Input from "./components/ui/Input";
 import Button from "./components/ui/Button";
 import ButtonTab from "./components/ui/ButtonTab";
